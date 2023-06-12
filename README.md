@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
+<h1 align="center">Hi 👋, I'm Vinay</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayparjapati5&label=Profile%20views&color=0e75b6&style=flat" alt="vinayparjapati5" /> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms, Machine Learning & Deep Learning**
