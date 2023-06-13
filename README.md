@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayparjapati5&label=Profile%20views&color=0e75b6&style=flat" alt="vinayparjapati5" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms, Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning & Deep Learning**
 
 - 📫 How to reach me **vkp5602@gmail.com**
 
