@@ -22,27 +22,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayparjapati5&" alt="vinayparjapati5" /></p>
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/vinayparjapati5?tab=repositories">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vinayparjapati5&theme=tokyonight_duo"/>
-    </a>
-    <a href="https://github.com/vinayparjapati5?tab=repositories">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=vinayparjapati5&theme=github_dark&show_icons=true" />
-    </a>
-  </div>
-  
-<br><br><br><br>
-<br><br><br><br>
 
-  <div align=center>
-    <a href="https://github.com/vinayparjapati5?tab=repositories">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayparjapati5&layout=compact&langs_count=10&theme=github_dark">
-    </a>
-  </div>
-  
-  <br>
-
-</p>
 
