@@ -19,9 +19,6 @@
 
 
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayparjapati5&" alt="vinayparjapati5" /></p>--->
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayparjapati5&" alt="vinayparjapati5" /></p>
 
 
